@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QxfJ5Yv4Kl0TmcBQnwsqvmUj8PrAtgb32R1nHI116lyUIzK/3D6cmqrxzhAvpykum1P55J2B8TPcB0ePHoRswQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fernando Bonilla\\Documents\\GitHub\\WebAPIPeliculas-.NET\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando Bonilla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Fernando Bonilla\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Fernando Bonilla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Fernando Bonilla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
