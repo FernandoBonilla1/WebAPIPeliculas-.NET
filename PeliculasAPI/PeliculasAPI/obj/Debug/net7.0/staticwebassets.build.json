@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "rAE2a66vr5441zM3VEifvr70y8sGVq4BKD05EE0OxZo=",
+  "Hash": "JwTXhs20ZSrTfWO0yZHauVht9Lo7KxWj/wAMBlXL/mw=",
   "Source": "PeliculasAPI",
   "BasePath": "_content/PeliculasAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "PeliculasAPI\\wwwroot",
+      "Source": "PeliculasAPI",
+      "ContentRoot": "C:\\Users\\Fernando Bonilla\\Documents\\GitHub\\WebAPIPeliculas-.NET\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Fernando Bonilla\\Documents\\GitHub\\WebAPIPeliculas-.NET\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\a5a73a95-59ad-4457-89bc-b181d8ee0c1f.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fernando Bonilla\\Documents\\GitHub\\WebAPIPeliculas-.NET\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/a5a73a95-59ad-4457-89bc-b181d8ee0c1f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\a5a73a95-59ad-4457-89bc-b181d8ee0c1f.jpg"
+    }
+  ]
 }

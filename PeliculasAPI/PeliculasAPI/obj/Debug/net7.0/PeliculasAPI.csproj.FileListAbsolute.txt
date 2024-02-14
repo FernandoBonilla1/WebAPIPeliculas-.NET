@@ -97,3 +97,4 @@ C:\Users\Fernando Bonilla\Documents\GitHub\WebAPIPeliculas-.NET\PeliculasAPI\Pel
 C:\Users\Fernando Bonilla\Documents\GitHub\WebAPIPeliculas-.NET\PeliculasAPI\PeliculasAPI\obj\Debug\net7.0\ref\PeliculasAPI.dll
 C:\Users\Fernando Bonilla\Documents\GitHub\WebAPIPeliculas-.NET\PeliculasAPI\PeliculasAPI\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Fernando Bonilla\Documents\GitHub\WebAPIPeliculas-.NET\PeliculasAPI\PeliculasAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Fernando Bonilla\Documents\GitHub\WebAPIPeliculas-.NET\PeliculasAPI\PeliculasAPI\bin\Debug\net7.0\PeliculasAPI.staticwebassets.runtime.json
