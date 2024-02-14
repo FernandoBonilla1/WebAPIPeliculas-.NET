@@ -1,4 +1,7 @@
-﻿namespace PeliculasAPI
+﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
+
+namespace PeliculasAPI
 {
     public class Startup
     {
@@ -11,6 +14,10 @@
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAutoMapper(typeof(Startup));
+
+
+            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("defaultConnection")));
             services.AddControllers();
             services.AddEndpointsApiExplorer();
         }
